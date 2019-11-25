@@ -1,12 +1,13 @@
 # 状态管理
 * [byte-fe/react-model](https://github.com/byte-fe/react-model)  下一代的状态管理库
+* [jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next) 函数组件极简状态管理库
 # UI
 * [uiwjs/uiw](https://github.com/uiwjs/uiw) 极轻ui框架
 # Hooks
 * [GoogleChromeLabs/react-adaptive-hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks) Chrome出品获取用户设备和网络信息
-* [zeit/swr](https://github.com/zeit/swr)  React Hooks library for remote data fetching
-* # 组件
-* [react-component-badgeboard](http://react-component.github.io/badgeboard/)
+* [zeit/swr](https://github.com/zeit/swr)  使用hooks远程加载数据
+# 组件
+* [react-component-badgeboard](http://react-component.github.io/badgeboard/) ant.design开远组件列表
 * [rc-form](https://github.com/react-component/form)
 * [alitajs/gesture-password](https://github.com/alitajs/gesture-password)  手势密码
 
@@ -22,7 +23,6 @@
 #  教程
 * [从零开始写一个 React 框架](https://pomb.us/build-your-own-react/)
 * [btholt/complete-intro-to-react-v5](https://github.com/btholt/complete-intro-to-react-v5)
-# DEMO
+# Demo
 * [react-interactive-paycard](https://github.com/jasminmif/react-interactive-paycard)
 * [iamdustan/tiny-react-renderer](https://github.com/iamdustan/tiny-react-renderer)
-
